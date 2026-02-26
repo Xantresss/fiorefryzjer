@@ -40,11 +40,11 @@ export default function CTASection() {
                             Umów wizytę online
                         </a>
                         <a
-                            href="tel:+48667801883"
+                            href="tel:+48 xxxxxxxxx"
                             className="group w-full sm:w-auto inline-flex items-center justify-center gap-3 border border-stone-600 text-stone-300 px-8 py-4 text-sm tracking-widest uppercase hover:border-stone-400 hover:text-stone-50 transition-all duration-300 rounded-md"
                         >
                             <Phone size={18} />
-                            667 801 883
+                            xxxxxxxxx
                         </a>
                     </div>
 

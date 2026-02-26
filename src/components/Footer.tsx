@@ -26,11 +26,11 @@ export default function Footer() {
                         </h4>
                         <div className="space-y-4">
                             <a
-                                href="tel:+48667801883"
+                                href="tel:+48 xxxxxxxxx"
                                 className="flex items-center gap-3 text-stone-600 hover:text-amber-700 transition-colors duration-300 text-sm"
                             >
                                 <Phone size={16} strokeWidth={1.5} />
-                                667 801 883
+                                xxxxxxxxx
                             </a>
                             <div className="flex items-start gap-3 text-stone-600 text-sm">
                                 <MapPin size={16} strokeWidth={1.5} className="mt-0.5 shrink-0" />
@@ -46,14 +46,14 @@ export default function Footer() {
                         </h4>
                         <div className="flex gap-4">
                             <a
-                                href="https://www.facebook.com/studiofryzurfiore/?locale=pl_PL"
+                                href=""
                                 className="inline-flex items-center justify-center w-10 h-10 rounded-md border border-stone-200 text-stone-500 hover:text-amber-700 hover:border-amber-700/30 hover:bg-amber-50/50 transition-all duration-300"
                                 aria-label="Facebook"
                             >
                                 <Facebook size={18} strokeWidth={1.5} />
                             </a>
                             <a
-                                href="https://www.instagram.com/studiofryzurfiore/"
+                                href=""
                                 className="inline-flex items-center justify-center w-10 h-10 rounded-md border border-stone-200 text-stone-500 hover:text-amber-700 hover:border-amber-700/30 hover:bg-amber-50/50 transition-all duration-300"
                                 aria-label="Instagram"
                             >

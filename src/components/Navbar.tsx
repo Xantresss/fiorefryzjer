@@ -60,16 +60,16 @@ export default function Navbar() {
 
                         {/* CTA — phone */}
                         <a
-                            href="tel:+48667801883"
+                            href="tel:+48 xxxxxxxxx"
                             className="hidden md:flex items-center gap-2 border border-stone-800 px-5 py-2.5 text-xs tracking-widest uppercase text-stone-800 hover:bg-stone-800 hover:text-stone-50 transition-all duration-300 rounded-md"
                         >
                             <Phone size={14} />
-                            <span>667 801 883</span>
+                            <span>xxxxxxxxx</span>
                         </a>
 
                         {/* Mobile phone icon */}
                         <a
-                            href="tel:+48667801883"
+                            href="tel:+48 xxxxxxxxx"
                             className="md:hidden text-stone-800 hover:text-amber-700 transition-colors z-[60]"
                             aria-label="Zadzwoń"
                         >
@@ -102,12 +102,12 @@ export default function Navbar() {
                         Rezerwacja
                     </a>
                     <a
-                        href="tel:+48667801883"
+                        href="tel:+48 xxxxxxxxx"
                         onClick={() => setIsOpen(false)}
                         className="flex items-center gap-3 border border-stone-800 px-8 py-3 text-sm tracking-widest uppercase text-stone-800 hover:bg-stone-800 hover:text-stone-50 transition-all duration-300 rounded-md"
                     >
                         <Phone size={16} />
-                        667 801 883
+                        xxxxxxxxx
                     </a>
                 </div>
             </div>
